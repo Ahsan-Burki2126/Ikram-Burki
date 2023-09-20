@@ -8,7 +8,7 @@ let isNavOpen = false; // Add a flag variable to track the state
 navToggle.addEventListener("click", () => {
     isNavOpen = !isNavOpen; // Toggle the flag variable
     if (isNavOpen) {
-        navToggleImg.src = "images/cross.png";
+        navToggleImg.src = "cross.png";
         
     } else {
         navToggleImg.src = "images/navToggle.png";
