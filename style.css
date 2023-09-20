@@ -605,7 +605,12 @@ body {
 
 
     .testimonialContainer {
+        max-width:100%;
         gap: 0px;
+    }
+
+    .testimonialItem{
+        flex: 0 50% 100%;
     }
 
     .formContainer {
@@ -615,8 +620,8 @@ body {
     }
 
     .forwardBtn,.previousBtn{
-        width:20px;
-        height:20px;
+        width:40px;
+        height:40px;
     }
 
     
