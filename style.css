@@ -299,12 +299,13 @@ body {
     min-width: 180px;
     max-width: 600px;
     min-height:100%;
-    
+    max-height:fit-content;
     scroll-snap-type: x mandatory;
 }
 
 .testimonialItem {
     display: flex;
+    flex-wrap:wrap;
     justify-content: center;
     color: white;
     gap: 20px;
