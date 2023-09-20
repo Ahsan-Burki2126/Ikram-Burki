@@ -605,7 +605,7 @@ body {
 
 
     .testimonialContainer {
-        gap: 20px;
+        gap: 0px;
     }
 
     .formContainer {
@@ -613,6 +613,13 @@ body {
         grid-template-columns: auto;
         place-items: center;
     }
+
+    .forwardBtn,.previousBtn{
+        width:40px;
+        height:40px;
+    }
+
+    
 
     .leftForm {
         align-items: center;
@@ -639,5 +646,12 @@ body {
         overflow-x: hidden;
         /* Hide horizontal scrollbar */
     }
+
+    #nextBtn,
+    #backBtn {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
 
 }
