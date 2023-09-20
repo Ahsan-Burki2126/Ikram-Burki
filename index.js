@@ -11,7 +11,7 @@ navToggle.addEventListener("click", () => {
         navToggleImg.src = "cross.png";
         
     } else {
-        navToggleImg.src = "images/navToggle.png";
+        navToggleImg.src = "navToggle.png";
     }
     navLinksContainer.classList.toggle("navUtilityClass");
 });
