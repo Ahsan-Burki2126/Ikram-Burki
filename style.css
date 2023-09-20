@@ -615,8 +615,8 @@ body {
     }
 
     .forwardBtn,.previousBtn{
-        width:40px;
-        height:40px;
+        width:20px;
+        height:20px;
     }
 
     
@@ -646,12 +646,12 @@ body {
         overflow-x: hidden;
         /* Hide horizontal scrollbar */
     }
-
+/* 
     #nextBtn,
     #backBtn {
     width: 40px;
     height: 40px;
     cursor: pointer;
 }
-
+ */
 }
