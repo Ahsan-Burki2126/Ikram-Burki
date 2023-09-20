@@ -290,6 +290,7 @@ body {
     gap: 40px;
     align-items: center;
     width: 100%;
+    min-height:60%;
 }
 
 .testimonialItemContainer {
