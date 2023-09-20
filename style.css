@@ -296,7 +296,7 @@ body {
     display: flex;
     justify-content: center;
     overflow: scroll;
-    min-width: 300px;
+    min-width: 180px;
     max-width: 600px;
     scroll-snap-type: x mandatory;
 }
