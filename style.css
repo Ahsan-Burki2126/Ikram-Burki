@@ -137,6 +137,7 @@ body {
     display: grid;
     place-items: center;
     grid-template-columns: 28% 70%;
+    place-items:center;
     grid-template-rows: calc(100vh - 100px);
     grid-column-gap: 10px;
 }
