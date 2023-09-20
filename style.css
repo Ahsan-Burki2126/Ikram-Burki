@@ -11,7 +11,7 @@
 
 body {
     min-height: 100vh;
-    background-image: url(images/Meteor.png);
+    background-image: url(Meteor.png);
     background-size: cover;
     backdrop-filter: blur(10px);
 }
